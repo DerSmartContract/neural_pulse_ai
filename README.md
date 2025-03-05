@@ -133,12 +133,3 @@ Fazit
 Neural Pulse AI verfolgt einen innovativen Ansatz zur KI-Modellierung, indem es zeitabhängige Pulse als zentrales Element verwendet. Die Plattform bietet eine Grundlage für die Erforschung adaptiver und selbstorganisierender Netzwerke.
 
 Das Projekt befindet sich in der frühen Entwicklungsphase, liefert jedoch bereits erste experimentelle Ergebnisse zur Nutzung neuronaler Pulse in KI-Systemen.
-
-Kontakt und Mitwirkung
-	•	Repository: github.com/dein-user/neural_pulse_ai
-	•	Autor: Dein Name / LinkedIn-Profil
-	•	Beiträge & Feedback: Pull Requests und Issues sind willkommen.
-
-Diese README folgt einem wissenschaftlichen Ansatz mit einer klaren Projektstruktur und präziser Dokumentation, um sowohl Entwickler als auch potenzielle Arbeitgeber zu überzeugen. Sie legt den Fokus auf technische Details, Forschungshypothesen und zukünftige Entwicklungen, ohne unnötige Ausschmückungen.
-
-Falls du Änderungen oder Ergänzungen möchtest, passe ich sie gerne an.
